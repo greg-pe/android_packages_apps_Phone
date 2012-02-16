@@ -58,6 +58,7 @@ public class PhoneInterfaceManager extends ITelephony.Stub {
     private static final int CMD_ANSWER_RINGING_CALL = 4;
     private static final int CMD_END_CALL = 5;  // not used yet
     private static final int CMD_SILENCE_RINGER = 6;
+    private static final int CMD_TOGGLE_LTE = 7; // not used yet
 
     /** The singleton instance. */
     private static PhoneInterfaceManager sInstance;
