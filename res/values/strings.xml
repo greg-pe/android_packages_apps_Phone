@@ -406,7 +406,6 @@
         <item>"7"</item>
         <item>"4"</item>
     </string-array>
-
     <!-- Mobile network settings, network mode choices for a device supporting GSM and LTE [CHAR LIMIT=25] -->
     <string-array name="preferred_network_mode_choices_lte_gsm">
         <item>LTE/GSM/WCDMA</item>
@@ -416,7 +415,6 @@
         <item>"9"</item>
         <item>"0"</item>
     </string-array>
-
     <!-- Mobile network settings screen, data enabling checkbox name -->
     <string name="data_enabled">Data enabled</string>
     <!-- Mobile network settings screen, setting summary text when check box is not selected (explains what selecting it would do) -->
