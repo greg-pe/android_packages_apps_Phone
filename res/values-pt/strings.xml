@@ -623,4 +623,25 @@
     <string name="preference_category_ringtone" msgid="9007490591910078324">"Toque"</string>
     <string name="perm_change_mobile_network">Alternar rede de dados (2G/3G)</string>
     <string name="perm_change_mobile_network_desc">Aplicação com está permissão pode a qualquer momento, alterar entre dados 2G and 3G. 3G é mais rápido, consome mais bateria, e também pode gastar mais seu dinheiro.</string>
+
+    <string name="preferred_network_mode_lte_gsm_summary">Modo de rede preferencial: LTE / WCDMA / GSM</string>
+    <string name="dialer_ui_settings_title">Teclado</string>
+    <string name="dialer_ui_settings_summary">Configurações do teclado</string>
+    <string name="noise_suppression_title">Supressão de ruído</string>
+    <string name="noise_suppression_summary">Ativar supressão de ruído em ligações</string>
+    <string name="mwi_notification_title">Indicador de Mensagem em Espera</string>
+    <string name="mwi_notification_summary">Exibir mensagem para indicador de notificações de mensagens de voz</string>
+    <string name="preferred_network_mode_lte_cdma_evdo_summary">Modo de rede preferencial: LTE / CDMA / EvDo</string>
+    <string name="preferred_network_mode_lte_cdma_evdo_gsm_wcdma_summary">Modo de rede preferencial: LTE / CDMA / EvDo / GSM / WCDMA</string>
+    <string name="phone_number_label">Meu número de telefone</string>
+    <string name="phone_number_summary">Definir o número de telefone para este dispositivo</string>
+    <string name="advanced_setting">Configuração avançada</string>
+    <string name="vibrate_outgoing">Vibrar ao atender</string>
+    <string name="vibrate_outgoing_sum">Vibra quando a chamada efetuada é atendida</string>
+    <string name="vibrate_45">Vibrar a cada 45 segundos</string>
+    <string name="vibrate_45_sum">Vibrar aos 45 segundos de cada minuto durante chamada efetuada</string>
+    <string name="vibrate_hangup">Vibrar ao desligar</string>
+    <string name="vibrate_hangup_sum">Vibra quando a chamada é desligada</string>
+    <string name="vibrate_call_waiting">Vibrar c/ chamada em espera</string>
+    <string name="vibrate_call_waiting_sum">Vibra quando existem chamadas em espera</string>
 </resources>
